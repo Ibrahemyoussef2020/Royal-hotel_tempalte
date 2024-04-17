@@ -471,6 +471,7 @@ nav {
 
 .footer {
   background-color: var(--text-dark);
+  margin-top: 3rem;
 }
 
 .footer__container {
